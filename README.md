@@ -1,0 +1,1 @@
+# shadow_pa10-7_config

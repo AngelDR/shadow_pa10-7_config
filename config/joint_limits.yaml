@@ -1,0 +1,156 @@
+joint_limits:
+  joint_base_to_s2:
+    has_velocity_limits: true
+    max_velocity: 0.1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFJ4:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  WRJ2:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  WRJ1:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  joint_e1_to_e2:
+    has_velocity_limits: true
+    max_velocity: 0.2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  joint_e2_to_w1:
+    has_velocity_limits: true
+    max_velocity: 0.628
+    has_acceleration_limits: false
+    max_acceleration: 0
+  joint_w1_to_w2:
+    has_velocity_limits: true
+    max_velocity: 0.628
+    has_acceleration_limits: false
+    max_acceleration: 0
+  joint_s2_to_s3:
+    has_velocity_limits: true
+    max_velocity: 0.1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  joint_s3_to_e1:
+    has_velocity_limits: true
+    max_velocity: 0.2
+    has_acceleration_limits: false
+    max_acceleration: 0
+  FFJ3:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  FFJ2:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  FFJ1:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  joint_w2_to_eef:
+    has_velocity_limits: true
+    max_velocity: 0.628
+    has_acceleration_limits: false
+    max_acceleration: 0
+  FFJ4:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFJ5:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFJ4:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFJ3:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFJ2:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  LFJ1:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  MFJ3:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  MFJ2:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  MFJ1:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFJ3:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFJ2:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  RFJ1:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  MFJ4:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  THJ3:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  THJ2:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  THJ1:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  THJ5:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0
+  THJ4:
+    has_velocity_limits: true
+    max_velocity: 1
+    has_acceleration_limits: false
+    max_acceleration: 0

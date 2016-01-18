@@ -1,0 +1,53 @@
+controller_list:
+  - name: fake_pa10_controller
+    joints:
+      - joint_base_to_s2
+      - joint_s2_to_s3
+      - joint_s3_to_e1
+      - joint_e1_to_e2
+      - joint_e2_to_w1
+      - joint_w1_to_w2
+      - joint_w2_to_eef
+  - name: fake_pa10_shadow_controller
+    joints:
+      - joint_base_to_s2
+      - joint_s2_to_s3
+      - joint_s3_to_e1
+      - joint_e1_to_e2
+      - joint_e2_to_w1
+      - joint_w1_to_w2
+      - joint_w2_to_eef
+      - WRJ2
+      - WRJ1
+  - name: fake_first_finger_controller
+    joints:
+      - FFJ4
+      - FFJ3
+      - FFJ2
+      - FFJ1
+  - name: fake_middle_finger_controller
+    joints:
+      - MFJ4
+      - MFJ3
+      - MFJ2
+      - MFJ1
+  - name: fake_ring_finger_controller
+    joints:
+      - RFJ4
+      - RFJ3
+      - RFJ2
+      - RFJ1
+  - name: fake_little_finger_controller
+    joints:
+      - LFJ5
+      - LFJ4
+      - LFJ3
+      - LFJ2
+      - LFJ1
+  - name: fake_thumb_controller
+    joints:
+      - THJ5
+      - THJ4
+      - THJ3
+      - THJ2
+      - THJ1

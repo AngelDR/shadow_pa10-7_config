@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: shadow_pa10_7dof_description
+    relative_path: urdf/shadow_pa10_7dof.xacro
+  SRDF:
+    relative_path: config/shadow_pa10_7dof.srdf
+  CONFIG:
+    generated_timestamp: 1452792832
